@@ -1,2 +1,2 @@
 # Grupo06---Progra-Web
-Tienda On-Line
+Tienda Online
